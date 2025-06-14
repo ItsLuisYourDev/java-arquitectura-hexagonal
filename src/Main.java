@@ -15,9 +15,6 @@ public class Main {
 
        double pago = useCase.calcularPago(id);
         System.out.println("Pago calculado: "+ pago);
-        System.out.println("Pago calculado: "+ pago);
-        System.out.println("Pago calculado: "+ pago);
-
 
     }
 }
